@@ -56,7 +56,7 @@ The aim is to analyze restaurant data, study customer preferences, and visualize
    South Indian     8644
 - 3.9 rating is given by most of the people
 - higher rating got high number of votes
-- top 3 costlier listed in are dine-out , buffet ,pubs and bars
+- top 3 costlier listed in are dine-out , buffet ,drinks and nightlife
 - locations having more average rating are 
     Lavelle Road             4.123251
     St. Marks Road           4.014205
